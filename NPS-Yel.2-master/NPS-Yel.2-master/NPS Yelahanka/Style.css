@@ -1,0 +1,80 @@
+.Header{
+    display:flex;
+    justify-content:center;
+    background-color: blue;
+}
+.TitleDesign{
+  
+    background-color:bisque;
+    border-style:ridge;
+}
+.Options{
+    display:flex;
+    justify-content:space-evenly;
+    border-style:solid;
+    border-color: red;
+    
+}
+.AboutUs{
+    color:green
+}
+.Covid-19{
+    color:red
+}
+.Eve{
+    display:flex;
+    justify-content:center;
+   background-color: blue;
+   border-color:blue;
+   justify-content:space-evenly;
+   border-style: solid; 
+}
+.EventBody{
+    display:flex;
+    justify-content:center;
+    background-color:bisque;
+    color:grey;
+    border-style: dotted;
+}
+.Classes_Head{
+    background-color: blue;
+    border-style:solid;
+    border-color:blue;
+}  
+.Classes_SubHead{
+    background-color:bisque;
+    color:grey;
+}
+.Classes_Body{
+    display:flex;
+    justify-content:space-evenly;
+    border-style:solid;
+    border-color:red
+}
+.Form{
+    background-color:bisque;  
+    border-style:solid;
+    border-color: red;
+
+}
+.Section{
+    background-color: blue;
+    border-style:solid;
+    border-color:blue;
+}
+.Forms{
+    background-color:bisque;  
+    border-style:solid;
+    border-color: red;
+    
+
+    
+}
+
+
+    
+
+
+
+
+
